@@ -1,5 +1,2 @@
-line1=1
-line2=2
-line3=3
-#dev01 branch
 #20190102 edit
+print('edit 001')
